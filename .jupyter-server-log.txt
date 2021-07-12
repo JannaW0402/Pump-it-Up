@@ -171,3 +171,50 @@ TermSocket.open: Opened 1
 [W 03:10:58.114 NotebookApp] Notebook 869janna.ipynb is not trusted
 [I 03:11:03.000 NotebookApp] Saving file at /869janna.ipynb
 [W 03:11:03.001 NotebookApp] Notebook 869janna.ipynb is not trusted
+[I 03:16:30.287 NotebookApp] Saving file at /869janna.ipynb
+[W 03:16:30.287 NotebookApp] Notebook 869janna.ipynb is not trusted
+[I 03:16:56.514 NotebookApp] Saving file at /869janna.ipynb
+[W 03:16:56.515 NotebookApp] Notebook 869janna.ipynb is not trusted
+[I 03:21:39.467 NotebookApp] Saving file at /869janna.ipynb
+[W 03:21:39.467 NotebookApp] Notebook 869janna.ipynb is not trusted
+[I 03:23:39.491 NotebookApp] Saving file at /869janna.ipynb
+[W 03:23:39.492 NotebookApp] Notebook 869janna.ipynb is not trusted
+[I 03:25:39.584 NotebookApp] Saving file at /869janna.ipynb
+[W 03:25:39.584 NotebookApp] Notebook 869janna.ipynb is not trusted
+[I 03:27:39.451 NotebookApp] Saving file at /869janna.ipynb
+[W 03:27:39.451 NotebookApp] Notebook 869janna.ipynb is not trusted
+[I 03:29:39.452 NotebookApp] Saving file at /869janna.ipynb
+[W 03:29:39.453 NotebookApp] Notebook 869janna.ipynb is not trusted
+[I 03:31:39.460 NotebookApp] Saving file at /869janna.ipynb
+[W 03:31:39.461 NotebookApp] Notebook 869janna.ipynb is not trusted
+[I 03:32:06.434 NotebookApp] Saving file at /869janna.ipynb
+[W 03:32:06.435 NotebookApp] Notebook 869janna.ipynb is not trusted
+[I 03:39:39.439 NotebookApp] Saving file at /869janna.ipynb
+[W 03:39:39.439 NotebookApp] Notebook 869janna.ipynb is not trusted
+[W 03:41:39.711 NotebookApp] Culling 'idle' kernel 'python3' (c8043c3f-2c28-4125-aff6-a56ee9baa4af) with 1 connections due to 623 seconds of inactivity.
+[I 03:41:39.711 NotebookApp] Kernel shutdown: c8043c3f-2c28-4125-aff6-a56ee9baa4af
+[W 03:41:40.599 NotebookApp] 410 DELETE /user/jannaw0402-pump-it-up-pjd72je8/api/sessions/3a97ffd8-2f83-44f4-8817-161c140038a0 (165.225.209.50): Kernel deleted before session
+[W 03:41:40.599 NotebookApp] Kernel deleted before session
+[W 03:41:40.600 NotebookApp] 410 DELETE /user/jannaw0402-pump-it-up-pjd72je8/api/sessions/3a97ffd8-2f83-44f4-8817-161c140038a0 (165.225.209.50) 1.710000ms referer=https://hub.mybinder.turing.ac.uk/user/jannaw0402-pump-it-up-pjd72je8/notebooks/869janna.ipynb
+[I 03:41:41.773 NotebookApp] Saving file at /869janna.ipynb
+[W 03:41:41.773 NotebookApp] Notebook 869janna.ipynb is not trusted
+[W 03:41:45.582 NotebookApp] 404 DELETE /user/jannaw0402-pump-it-up-pjd72je8/api/sessions/3a97ffd8-2f83-44f4-8817-161c140038a0 (165.225.209.50): Session not found: session_id='3a97ffd8-2f83-44f4-8817-161c140038a0'
+[W 03:41:45.583 NotebookApp] Session not found: session_id='3a97ffd8-2f83-44f4-8817-161c140038a0'
+[W 03:41:45.583 NotebookApp] 404 DELETE /user/jannaw0402-pump-it-up-pjd72je8/api/sessions/3a97ffd8-2f83-44f4-8817-161c140038a0 (165.225.209.50) 1.730000ms referer=https://hub.mybinder.turing.ac.uk/user/jannaw0402-pump-it-up-pjd72je8/notebooks/869janna.ipynb
+[I 03:41:45.730 NotebookApp] Kernel started: a1ea2ea0-7b4c-4c54-8fc6-dbdb8b74955f, name: python3
+[I 03:43:39.430 NotebookApp] Saving file at /869janna.ipynb
+[W 03:43:39.431 NotebookApp] Notebook 869janna.ipynb is not trusted
+[I 03:45:40.288 NotebookApp] Saving file at /869janna.ipynb
+[W 03:45:40.289 NotebookApp] Notebook 869janna.ipynb is not trusted
+[I 03:47:39.582 NotebookApp] Saving file at /869janna.ipynb
+[W 03:47:39.583 NotebookApp] Notebook 869janna.ipynb is not trusted
+[I 03:49:39.569 NotebookApp] Saving file at /869janna.ipynb
+[W 03:49:39.569 NotebookApp] Notebook 869janna.ipynb is not trusted
+[I 03:51:39.690 NotebookApp] Saving file at /869janna.ipynb
+[W 03:51:39.692 NotebookApp] Notebook 869janna.ipynb is not trusted
+[I 03:53:39.576 NotebookApp] Saving file at /869janna.ipynb
+[W 03:53:39.577 NotebookApp] Notebook 869janna.ipynb is not trusted
+[I 03:54:09.532 NotebookApp] Saving file at /869janna.ipynb
+[W 03:54:09.534 NotebookApp] Notebook 869janna.ipynb is not trusted
+[I 03:57:39.895 NotebookApp] Saving file at /869janna.ipynb
+[W 03:57:39.896 NotebookApp] Notebook 869janna.ipynb is not trusted
