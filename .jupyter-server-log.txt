@@ -218,3 +218,7 @@ TermSocket.open: Opened 1
 [W 03:54:09.534 NotebookApp] Notebook 869janna.ipynb is not trusted
 [I 03:57:39.895 NotebookApp] Saving file at /869janna.ipynb
 [W 03:57:39.896 NotebookApp] Notebook 869janna.ipynb is not trusted
+[I 04:01:39.582 NotebookApp] Saving file at /869janna.ipynb
+[W 04:01:39.583 NotebookApp] Notebook 869janna.ipynb is not trusted
+[I 04:02:25.604 NotebookApp] Saving file at /869janna.ipynb
+[W 04:02:25.605 NotebookApp] Notebook 869janna.ipynb is not trusted
