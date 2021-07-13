@@ -240,3 +240,38 @@ TermSocket.open: Opened 1
 [W 04:09:39.601 NotebookApp] Notebook 869janna.ipynb is not trusted
 [I 04:17:39.672 NotebookApp] Saving file at /869janna.ipynb
 [W 04:17:39.673 NotebookApp] Notebook 869janna.ipynb is not trusted
+[W 2021-07-13 03:11:09.320 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-13 03:11:09.321 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-13 03:11:09.321 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-13 03:11:09.321 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-13 03:11:09.321 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-13 03:11:09.321 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-13 03:11:09.321 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-13 03:11:09.321 LabApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-07-13 03:11:09.321 LabApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-07-13 03:11:09.321 LabApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-13 03:11:09.321 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-13 03:11:09.321 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2021-07-13 03:11:09.329 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/jupyterlab
+[I 2021-07-13 03:11:09.329 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 03:11:09.336 NotebookApp] nteract extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/nteract_on_jupyter
+[I 03:11:09.338 NotebookApp] Will shut down after 600 seconds with no kernels or terminals.
+[I 03:11:09.339 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[I 03:11:09.339 NotebookApp] Jupyter Notebook 6.2.0 is running at:
+[I 03:11:09.339 NotebookApp] http://jupyter-jannaw0402-2dpump-2dit-2dup-2deho3bumo:8888/user/jannaw0402-pump-it-up-eho3bumo/?token=...
+[I 03:11:09.339 NotebookApp]  or http://127.0.0.1:8888/user/jannaw0402-pump-it-up-eho3bumo/?token=...
+[I 03:11:09.339 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 03:11:09.342 NotebookApp] No web browser found: could not locate runnable browser.
+[I 03:11:09.349 NotebookApp] 302 GET /user/jannaw0402-pump-it-up-eho3bumo/ (10.244.3.67) 0.690000ms
+[I 03:11:10.857 NotebookApp] 302 GET /user/jannaw0402-pump-it-up-eho3bumo/?token=6rzerfDNQxSaSxtkPQH7vw (165.225.209.50) 0.720000ms
+[W 03:11:23.455 NotebookApp] Notebook 869janna.ipynb is not trusted
+[I 03:11:24.584 NotebookApp] Kernel started: cd85cb65-d915-4ec2-b3b7-6a64931cfbfe, name: python3
+[I 03:11:24.584 NotebookApp] Culling kernels with idle durations > 600 seconds at 60 second intervals ...
+[I 03:11:24.584 NotebookApp] Culling kernels even with connected clients
+[I 03:13:25.378 NotebookApp] Saving file at /869janna.ipynb
+[W 03:13:25.379 NotebookApp] Notebook 869janna.ipynb is not trusted
+[I 03:14:38.456 NotebookApp] Saving file at /869janna.ipynb
+[W 03:14:38.457 NotebookApp] Notebook 869janna.ipynb is not trusted
+[I 03:14:46.033 NotebookApp] New terminal with automatic name: 1
+TermSocket.open: 1
+TermSocket.open: Opened 1
