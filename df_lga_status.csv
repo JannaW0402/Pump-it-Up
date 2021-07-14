@@ -1,0 +1,125 @@
+,region,lga,functional,functional needs repair,non functional
+0,Arusha,Arusha Rural,875,48,329
+1,Arusha,Arusha Urban,42,7,14
+27,Arusha,Karatu,316,1,9
+50,Arusha,Longido,200,29,81
+65,Arusha,Meru,657,32,320
+70,Arusha,Monduli,95,30,64
+90,Arusha,Ngorongoro,109,28,64
+145,Dar es Salaam,Ilala,343,0,154
+163,Dar es Salaam,Kinondoni,42,0,51
+244,Dar es Salaam,Temeke,76,3,136
+254,Dodoma,Bahi,158,0,66
+261,Dodoma,Chamwino,144,29,174
+264,Dodoma,Dodoma Urban,88,36,234
+292,Dodoma,Kondoa,216,106,201
+293,Dodoma,Kongwa,203,0,158
+326,Dodoma,Mpwapwa,200,38,150
+399,Iringa,Iringa Rural,547,10,171
+409,Iringa,Kilolo,218,2,129
+426,Iringa,Ludewa,437,11,116
+430,Iringa,Makete,564,0,66
+454,Iringa,Mufindi,368,6,146
+466,Iringa,Njombe,2007,94,402
+506,Kagera,Biharamulo,274,21,108
+507,Kagera,Bukoba Rural,224,97,166
+508,Kagera,Bukoba Urban,46,10,32
+512,Kagera,Chato,134,3,99
+526,Kagera,Karagwe,409,45,317
+566,Kagera,Misenyi,84,34,142
+581,Kagera,Muleba,183,9,210
+589,Kagera,Ngara,373,85,211
+653,Kigoma,Kasulu,611,201,235
+655,Kigoma,Kibondo,452,67,355
+656,Kigoma,Kigoma Rural,285,327,212
+657,Kigoma,Kigoma Urban,15,8,48
+766,Kilimanjaro,Hai,544,4,77
+823,Kilimanjaro,Moshi Rural,733,119,399
+824,Kilimanjaro,Moshi Urban,63,0,16
+834,Kilimanjaro,Mwanga,231,49,239
+846,Kilimanjaro,Rombo,208,17,369
+851,Kilimanjaro,Same,449,131,297
+856,Kilimanjaro,Siha,412,2,20
+912,Lindi,Kilwa,119,29,244
+922,Lindi,Lindi Rural,217,26,145
+923,Lindi,Lindi Urban,7,0,14
+924,Lindi,Liwale,39,3,112
+960,Lindi,Nachingwea,26,15,259
+973,Lindi,Ruangwa,52,20,219
+1002,Manyara,Babati,381,53,77
+1017,Manyara,Hanang,191,0,83
+1041,Manyara,Kiteto,45,28,120
+1063,Manyara,Mbulu,191,10,96
+1108,Manyara,Simanjiro,179,5,124
+1135,Mara,Bunda,133,6,299
+1207,Mara,Musoma Rural,149,26,221
+1222,Mara,Rorya,55,1,154
+1228,Mara,Serengeti,424,27,265
+1243,Mara,Tarime,125,0,84
+1263,Mbeya,Chunya,72,100,126
+1271,Mbeya,Ileje,158,2,71
+1296,Mbeya,Kyela,360,8,491
+1309,Mbeya,Mbarali,311,134,181
+1310,Mbeya,Mbeya Rural,292,29,164
+1312,Mbeya,Mbozi,450,70,514
+1350,Mbeya,Rungwe,676,161,269
+1410,Morogoro,Kilombero,502,81,376
+1411,Morogoro,Kilosa,587,73,434
+1446,Morogoro,Morogoro Rural,252,52,217
+1447,Morogoro,Morogoro Urban,65,6,25
+1458,Morogoro,Mvomero,276,55,340
+1497,Morogoro,Ulanga,437,33,195
+1557,Mtwara,Masasi,103,68,357
+1577,Mtwara,Mtwara Rural,191,7,225
+1578,Mtwara,Mtwara Urban,66,9,49
+1587,Mtwara,Nanyumbu,42,0,116
+1588,Mtwara,Newala,49,30,152
+1616,Mtwara,Tandahimba,73,12,181
+1640,Mwanza,Geita,266,17,205
+1647,Mwanza,Ilemela,67,9,66
+1670,Mwanza,Kwimba,442,10,175
+1679,Mwanza,Magu,284,78,462
+1692,Mwanza,Missungwi,192,1,155
+1727,Mwanza,Sengerema,160,0,171
+1746,Mwanza,Ukerewe,91,68,182
+1753,Pwani,Bagamoyo,730,2,265
+1779,Pwani,Kibaha,181,6,82
+1789,Pwani,Kisarawe,85,0,138
+1803,Pwani,Mafia,91,16,25
+1819,Pwani,Mkuranga,271,6,283
+1849,Pwani,Rufiji,198,6,250
+1950,Rukwa,Mpanda,263,83,333
+1967,Rukwa,Nkasi,146,20,262
+1988,Rukwa,Sumbawanga Rural,226,32,263
+1989,Rukwa,Sumbawanga Urban,72,0,108
+2061,Ruvuma,Mbinga,395,57,298
+2086,Ruvuma,Namtumbo,389,18,287
+2111,Ruvuma,Songea Rural,419,34,240
+2112,Ruvuma,Songea Urban,51,3,26
+2120,Ruvuma,Tunduru,226,52,145
+2130,Shinyanga,Bariadi,580,409,188
+2134,Shinyanga,Bukombe,314,53,147
+2150,Shinyanga,Kahama,462,4,370
+2165,Shinyanga,Kishapu,182,43,174
+2183,Shinyanga,Maswa,498,60,251
+2189,Shinyanga,Meatu,314,46,108
+2229,Shinyanga,Shinyanga Rural,332,11,245
+2230,Shinyanga,Shinyanga Urban,107,9,75
+2273,Singida,Iramba,336,48,160
+2306,Singida,Manyoni,126,9,242
+2359,Singida,Singida Rural,438,62,495
+2360,Singida,Singida Urban,111,9,57
+2394,Tabora,Igunga,144,13,181
+2469,Tabora,Nzega,299,11,265
+2482,Tabora,Sikonge,49,0,121
+2490,Tabora,Tabora Urban,54,0,101
+2498,Tabora,Urambo,155,14,213
+2499,Tabora,Uyui,147,7,185
+2518,Tanga,Handeni,139,1,114
+2533,Tanga,Kilindi,73,1,87
+2544,Tanga,Korogwe,241,6,165
+2552,Tanga,Lushoto,433,59,202
+2568,Tanga,Mkinga,224,0,64
+2580,Tanga,Muheza,219,0,115
+2595,Tanga,Pangani,65,3,237
+2617,Tanga,Tanga,42,3,54
