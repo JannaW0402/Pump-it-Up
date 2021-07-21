@@ -315,3 +315,113 @@ TermSocket.open: Opened 1
 [W 04:54:50.186 NotebookApp] Notebook 869rui.ipynb is not trusted
 [I 04:54:56.998 NotebookApp] Starting buffering for 159e229f-ee84-42a0-84b6-14686de74dfb:d05a315a52f14d218fd28b6f667daca9
 [W 04:55:06.614 NotebookApp] Notebook 869rui.ipynb is not trusted
+[W 2021-07-21 19:38:49.486 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-21 19:38:49.486 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-21 19:38:49.486 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-21 19:38:49.486 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-21 19:38:49.486 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-21 19:38:49.486 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-21 19:38:49.486 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-21 19:38:49.486 LabApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-07-21 19:38:49.486 LabApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-07-21 19:38:49.487 LabApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-21 19:38:49.487 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-21 19:38:49.487 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2021-07-21 19:38:49.496 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/jupyterlab
+[I 2021-07-21 19:38:49.496 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 19:38:49.507 NotebookApp] nteract extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/nteract_on_jupyter
+[I 19:38:49.508 NotebookApp] Will shut down after 600 seconds with no kernels or terminals.
+[I 19:38:49.509 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[I 19:38:49.509 NotebookApp] Jupyter Notebook 6.2.0 is running at:
+[I 19:38:49.509 NotebookApp] http://jupyter-jannaw0402-2dpump-2dit-2dup-2dqb5yf5jf:8888/user/jannaw0402-pump-it-up-qb5yf5jf/?token=...
+[I 19:38:49.509 NotebookApp]  or http://127.0.0.1:8888/user/jannaw0402-pump-it-up-qb5yf5jf/?token=...
+[I 19:38:49.509 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 19:38:49.513 NotebookApp] No web browser found: could not locate runnable browser.
+[I 19:38:50.633 NotebookApp] 302 GET /user/jannaw0402-pump-it-up-qb5yf5jf/ (10.244.6.105) 1.050000ms
+[I 19:38:55.949 NotebookApp] 302 GET /user/jannaw0402-pump-it-up-qb5yf5jf/?token=PY7Ye4DOR3qEMGycnaJzRg (165.225.209.50) 0.630000ms
+[W 19:39:39.772 NotebookApp] Notebook 869danny.ipynb is not trusted
+[I 19:39:41.187 NotebookApp] Kernel started: 6fdf7b61-14b1-4165-a42c-b65cbe0e9825, name: python3
+[I 19:39:41.187 NotebookApp] Culling kernels with idle durations > 600 seconds at 60 second intervals ...
+[I 19:39:41.187 NotebookApp] Culling kernels even with connected clients
+[W 19:40:01.678 NotebookApp] Notebook 869janna.ipynb is not trusted
+[I 19:40:06.766 NotebookApp] Kernel started: bdeb6534-faf1-429d-ac19-1f73b1e66400, name: python3
+[I 19:41:42.240 NotebookApp] Saving file at /869danny.ipynb
+[W 19:41:42.241 NotebookApp] Notebook 869danny.ipynb is not trusted
+[I 19:42:07.933 NotebookApp] Saving file at /869janna.ipynb
+[W 19:42:07.935 NotebookApp] Notebook 869janna.ipynb is not trusted
+[I 19:48:10.094 NotebookApp] Saving file at /869janna.ipynb
+[W 19:48:10.096 NotebookApp] Notebook 869janna.ipynb is not trusted
+[I 19:48:40.519 NotebookApp] Saving file at /869janna.ipynb
+[W 19:48:40.522 NotebookApp] Notebook 869janna.ipynb is not trusted
+[W 19:50:41.188 NotebookApp] Culling 'idle' kernel 'python3' (6fdf7b61-14b1-4165-a42c-b65cbe0e9825) with 1 connections due to 657 seconds of inactivity.
+[I 19:50:41.189 NotebookApp] Kernel shutdown: 6fdf7b61-14b1-4165-a42c-b65cbe0e9825
+[W 19:50:41.554 NotebookApp] 410 DELETE /user/jannaw0402-pump-it-up-qb5yf5jf/api/sessions/a7b0e1fe-84ea-49ff-bbc8-84adfad6881f (165.225.209.50): Kernel deleted before session
+[W 19:50:41.554 NotebookApp] Kernel deleted before session
+[W 19:50:41.555 NotebookApp] 410 DELETE /user/jannaw0402-pump-it-up-qb5yf5jf/api/sessions/a7b0e1fe-84ea-49ff-bbc8-84adfad6881f (165.225.209.50) 1.600000ms referer=https://hub.mybinder.turing.ac.uk/user/jannaw0402-pump-it-up-qb5yf5jf/notebooks/869danny.ipynb
+[I 19:52:07.523 NotebookApp] Saving file at /869janna.ipynb
+[W 19:52:07.525 NotebookApp] Notebook 869janna.ipynb is not trusted
+[I 19:54:07.661 NotebookApp] Saving file at /869janna.ipynb
+[W 19:54:07.664 NotebookApp] Notebook 869janna.ipynb is not trusted
+[I 19:58:08.256 NotebookApp] Saving file at /869janna.ipynb
+[W 19:58:08.257 NotebookApp] Notebook 869janna.ipynb is not trusted
+[I 19:59:02.386 NotebookApp] New terminal with automatic name: 1
+TermSocket.open: 1
+TermSocket.open: Opened 1
+[I 20:00:09.173 NotebookApp] Saving file at /869janna.ipynb
+[W 20:00:09.175 NotebookApp] Notebook 869janna.ipynb is not trusted
+[I 20:04:08.315 NotebookApp] Saving file at /869janna.ipynb
+[W 20:04:08.317 NotebookApp] Notebook 869janna.ipynb is not trusted
+[I 20:04:30.641 NotebookApp] Saving file at /869janna.ipynb
+[W 20:04:30.642 NotebookApp] Notebook 869janna.ipynb is not trusted
+[I 20:04:36.226 NotebookApp] Saving file at /869janna.ipynb
+[W 20:04:36.228 NotebookApp] Notebook 869janna.ipynb is not trusted
+[W 20:08:41.189 NotebookApp] Culling 'idle' kernel 'python3' (bdeb6534-faf1-429d-ac19-1f73b1e66400) with 1 connections due to 620 seconds of inactivity.
+[I 20:08:41.189 NotebookApp] Kernel shutdown: bdeb6534-faf1-429d-ac19-1f73b1e66400
+[W 20:08:42.959 NotebookApp] 410 DELETE /user/jannaw0402-pump-it-up-qb5yf5jf/api/sessions/2432ce27-16f5-43ab-933a-7ef4f1493e3b (165.225.209.50): Kernel deleted before session
+[W 20:08:42.960 NotebookApp] Kernel deleted before session
+[W 20:08:42.960 NotebookApp] 410 DELETE /user/jannaw0402-pump-it-up-qb5yf5jf/api/sessions/2432ce27-16f5-43ab-933a-7ef4f1493e3b (165.225.209.50) 1.720000ms referer=https://hub.mybinder.turing.ac.uk/user/jannaw0402-pump-it-up-qb5yf5jf/notebooks/869janna.ipynb
+[W 20:09:36.308 NotebookApp] 404 DELETE /user/jannaw0402-pump-it-up-qb5yf5jf/api/sessions/2432ce27-16f5-43ab-933a-7ef4f1493e3b (165.225.209.50): Session not found: session_id='2432ce27-16f5-43ab-933a-7ef4f1493e3b'
+[W 20:09:36.309 NotebookApp] Session not found: session_id='2432ce27-16f5-43ab-933a-7ef4f1493e3b'
+[W 20:09:36.309 NotebookApp] 404 DELETE /user/jannaw0402-pump-it-up-qb5yf5jf/api/sessions/2432ce27-16f5-43ab-933a-7ef4f1493e3b (165.225.209.50) 2.000000ms referer=https://hub.mybinder.turing.ac.uk/user/jannaw0402-pump-it-up-qb5yf5jf/notebooks/869janna.ipynb
+[I 20:09:37.302 NotebookApp] Kernel started: a1580133-a1b0-437a-a283-60fc14a5ca5b, name: python3
+[I 20:10:07.792 NotebookApp] Saving file at /869janna.ipynb
+[W 20:10:07.794 NotebookApp] Notebook 869janna.ipynb is not trusted
+[I 20:12:07.855 NotebookApp] Saving file at /869janna.ipynb
+[W 20:12:07.857 NotebookApp] Notebook 869janna.ipynb is not trusted
+[I 20:13:18.440 NotebookApp] Saving file at /869janna.ipynb
+[W 20:13:18.442 NotebookApp] Notebook 869janna.ipynb is not trusted
+[I 20:16:09.550 NotebookApp] Saving file at /869janna.ipynb
+[W 20:16:09.552 NotebookApp] Notebook 869janna.ipynb is not trusted
+[I 20:18:07.909 NotebookApp] Saving file at /869janna.ipynb
+[W 20:18:07.911 NotebookApp] Notebook 869janna.ipynb is not trusted
+[I 20:20:08.854 NotebookApp] Saving file at /869janna.ipynb
+[W 20:20:08.856 NotebookApp] Notebook 869janna.ipynb is not trusted
+[I 20:22:08.199 NotebookApp] Saving file at /869janna.ipynb
+[W 20:22:08.201 NotebookApp] Notebook 869janna.ipynb is not trusted
+[W 20:23:35.257 NotebookApp] 404 DELETE /user/jannaw0402-pump-it-up-qb5yf5jf/api/sessions/a7b0e1fe-84ea-49ff-bbc8-84adfad6881f (165.225.209.50): Session not found: session_id='a7b0e1fe-84ea-49ff-bbc8-84adfad6881f'
+[W 20:23:35.258 NotebookApp] Session not found: session_id='a7b0e1fe-84ea-49ff-bbc8-84adfad6881f'
+[W 20:23:35.258 NotebookApp] 404 DELETE /user/jannaw0402-pump-it-up-qb5yf5jf/api/sessions/a7b0e1fe-84ea-49ff-bbc8-84adfad6881f (165.225.209.50) 1.540000ms referer=https://hub.mybinder.turing.ac.uk/user/jannaw0402-pump-it-up-qb5yf5jf/notebooks/869danny.ipynb
+[I 20:23:35.557 NotebookApp] Kernel started: f901bd85-3b8d-4146-8cea-8e39daf79dd4, name: python3
+[I 20:23:38.080 NotebookApp] Starting buffering for f901bd85-3b8d-4146-8cea-8e39daf79dd4:50f14cd11fb54bcb8dc1e04af7c6f61a
+[I 20:24:08.646 NotebookApp] Saving file at /869janna.ipynb
+[W 20:24:08.648 NotebookApp] Notebook 869janna.ipynb is not trusted
+[I 20:25:10.143 NotebookApp] Saving file at /869janna.ipynb
+[W 20:25:10.144 NotebookApp] Notebook 869janna.ipynb is not trusted
+[I 20:25:43.358 NotebookApp] Saving file at /869janna.ipynb
+[W 20:25:43.359 NotebookApp] Notebook 869janna.ipynb is not trusted
+[I 20:25:55.460 NotebookApp] Saving file at /869janna.ipynb
+[W 20:25:55.461 NotebookApp] Notebook 869janna.ipynb is not trusted
+[I 20:28:08.365 NotebookApp] Saving file at /869janna.ipynb
+[W 20:28:08.367 NotebookApp] Notebook 869janna.ipynb is not trusted
+[I 20:28:27.152 NotebookApp] Saving file at /869janna.ipynb
+[W 20:28:27.154 NotebookApp] Notebook 869janna.ipynb is not trusted
+[I 20:29:37.027 NotebookApp] Saving file at /869janna.ipynb
+[W 20:29:37.031 NotebookApp] Notebook 869janna.ipynb is not trusted
+[I 20:29:50.006 NotebookApp] Saving file at /869janna.ipynb
+[W 20:29:50.008 NotebookApp] Notebook 869janna.ipynb is not trusted
+[I 20:32:08.615 NotebookApp] Saving file at /869janna.ipynb
+[W 20:32:08.617 NotebookApp] Notebook 869janna.ipynb is not trusted
+[W 20:33:41.188 NotebookApp] Culling 'idle' kernel 'python3' (f901bd85-3b8d-4146-8cea-8e39daf79dd4) with 0 connections due to 604 seconds of inactivity.
+[I 20:33:41.189 NotebookApp] Kernel shutdown: f901bd85-3b8d-4146-8cea-8e39daf79dd4
+[I 20:34:08.162 NotebookApp] Saving file at /869janna.ipynb
+[I 20:38:08.961 NotebookApp] Saving file at /869janna.ipynb
