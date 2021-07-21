@@ -425,3 +425,5 @@ TermSocket.open: Opened 1
 [I 20:33:41.189 NotebookApp] Kernel shutdown: f901bd85-3b8d-4146-8cea-8e39daf79dd4
 [I 20:34:08.162 NotebookApp] Saving file at /869janna.ipynb
 [I 20:38:08.961 NotebookApp] Saving file at /869janna.ipynb
+[I 20:40:08.662 NotebookApp] Saving file at /869janna.ipynb
+[I 20:44:07.745 NotebookApp] Saving file at /869janna.ipynb
