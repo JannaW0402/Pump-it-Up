@@ -427,3 +427,56 @@ TermSocket.open: Opened 1
 [I 20:38:08.961 NotebookApp] Saving file at /869janna.ipynb
 [I 20:40:08.662 NotebookApp] Saving file at /869janna.ipynb
 [I 20:44:07.745 NotebookApp] Saving file at /869janna.ipynb
+[W 20:48:41.189 NotebookApp] Culling 'idle' kernel 'python3' (a1580133-a1b0-437a-a283-60fc14a5ca5b) with 1 connections due to 617 seconds of inactivity.
+[I 20:48:41.190 NotebookApp] Kernel shutdown: a1580133-a1b0-437a-a283-60fc14a5ca5b
+[W 20:48:44.778 NotebookApp] 410 DELETE /user/jannaw0402-pump-it-up-qb5yf5jf/api/sessions/0ad84e91-3f27-459a-b71b-24bbb1e0eea4 (165.225.209.50): Kernel deleted before session
+[W 20:48:44.779 NotebookApp] Kernel deleted before session
+[W 20:48:44.779 NotebookApp] 410 DELETE /user/jannaw0402-pump-it-up-qb5yf5jf/api/sessions/0ad84e91-3f27-459a-b71b-24bbb1e0eea4 (165.225.209.50) 1.480000ms referer=https://hub.mybinder.turing.ac.uk/user/jannaw0402-pump-it-up-qb5yf5jf/notebooks/869janna.ipynb
+[W 20:51:17.000 NotebookApp] 404 DELETE /user/jannaw0402-pump-it-up-qb5yf5jf/api/sessions/0ad84e91-3f27-459a-b71b-24bbb1e0eea4 (165.225.209.50): Session not found: session_id='0ad84e91-3f27-459a-b71b-24bbb1e0eea4'
+[W 20:51:17.000 NotebookApp] Session not found: session_id='0ad84e91-3f27-459a-b71b-24bbb1e0eea4'
+[W 20:51:17.001 NotebookApp] 404 DELETE /user/jannaw0402-pump-it-up-qb5yf5jf/api/sessions/0ad84e91-3f27-459a-b71b-24bbb1e0eea4 (165.225.209.50) 1.610000ms referer=https://hub.mybinder.turing.ac.uk/user/jannaw0402-pump-it-up-qb5yf5jf/notebooks/869janna.ipynb
+[I 20:51:17.510 NotebookApp] Kernel started: 2c11cb91-f0c8-4836-8309-97ee4a78fc74, name: python3
+[W 21:01:41.189 NotebookApp] Culling 'idle' kernel 'python3' (2c11cb91-f0c8-4836-8309-97ee4a78fc74) with 1 connections due to 622 seconds of inactivity.
+[I 21:01:41.189 NotebookApp] Kernel shutdown: 2c11cb91-f0c8-4836-8309-97ee4a78fc74
+[W 21:01:45.423 NotebookApp] 410 DELETE /user/jannaw0402-pump-it-up-qb5yf5jf/api/sessions/35ee56ee-c806-4901-a35e-2898ca44157c (165.225.209.50): Kernel deleted before session
+[W 21:01:45.424 NotebookApp] Kernel deleted before session
+[W 21:01:45.424 NotebookApp] 410 DELETE /user/jannaw0402-pump-it-up-qb5yf5jf/api/sessions/35ee56ee-c806-4901-a35e-2898ca44157c (165.225.209.50) 2.200000ms referer=https://hub.mybinder.turing.ac.uk/user/jannaw0402-pump-it-up-qb5yf5jf/notebooks/869janna.ipynb
+[W 23:42:49.383 NotebookApp] 404 DELETE /user/jannaw0402-pump-it-up-qb5yf5jf/api/sessions/35ee56ee-c806-4901-a35e-2898ca44157c (165.225.209.50): Session not found: session_id='35ee56ee-c806-4901-a35e-2898ca44157c'
+[W 23:42:49.383 NotebookApp] Session not found: session_id='35ee56ee-c806-4901-a35e-2898ca44157c'
+[W 23:42:49.384 NotebookApp] 404 DELETE /user/jannaw0402-pump-it-up-qb5yf5jf/api/sessions/35ee56ee-c806-4901-a35e-2898ca44157c (165.225.209.50) 1.480000ms referer=https://hub.mybinder.turing.ac.uk/user/jannaw0402-pump-it-up-qb5yf5jf/notebooks/869janna.ipynb
+[I 23:42:49.552 NotebookApp] Kernel started: 4bb84fa8-1e19-41af-ab2f-41131f138aac, name: python3
+[W 23:43:04.689 NotebookApp] Notebook 869construction.ipynb is not trusted
+[I 23:43:06.452 NotebookApp] Kernel started: abaf68bd-0d35-438d-88be-469bd66ba8c7, name: python3
+[I 23:45:07.987 NotebookApp] Saving file at /869construction.ipynb
+[W 23:45:07.989 NotebookApp] Notebook 869construction.ipynb is not trusted
+[W 23:53:41.188 NotebookApp] Culling 'idle' kernel 'python3' (4bb84fa8-1e19-41af-ab2f-41131f138aac) with 1 connections due to 650 seconds of inactivity.
+[I 23:53:41.189 NotebookApp] Kernel shutdown: 4bb84fa8-1e19-41af-ab2f-41131f138aac
+[W 23:53:41.391 NotebookApp] Culling 'idle' kernel 'python3' (abaf68bd-0d35-438d-88be-469bd66ba8c7) with 1 connections due to 632 seconds of inactivity.
+[I 23:53:41.391 NotebookApp] Kernel shutdown: abaf68bd-0d35-438d-88be-469bd66ba8c7
+[W 23:53:42.338 NotebookApp] 410 DELETE /user/jannaw0402-pump-it-up-qb5yf5jf/api/sessions/256e48cf-7a34-4360-aaa6-5eb4dbb3389c (165.225.209.50): Kernel deleted before session
+[W 23:53:42.339 NotebookApp] Kernel deleted before session
+[W 23:53:42.339 NotebookApp] 410 DELETE /user/jannaw0402-pump-it-up-qb5yf5jf/api/sessions/256e48cf-7a34-4360-aaa6-5eb4dbb3389c (165.225.209.50) 1.560000ms referer=https://hub.mybinder.turing.ac.uk/user/jannaw0402-pump-it-up-qb5yf5jf/notebooks/869janna.ipynb
+[W 23:53:42.345 NotebookApp] 410 DELETE /user/jannaw0402-pump-it-up-qb5yf5jf/api/sessions/3c733af3-d0ee-47da-8d28-2f55d385ca46 (165.225.209.50): Kernel deleted before session
+[W 23:53:42.345 NotebookApp] Kernel deleted before session
+[W 23:53:42.345 NotebookApp] 410 DELETE /user/jannaw0402-pump-it-up-qb5yf5jf/api/sessions/3c733af3-d0ee-47da-8d28-2f55d385ca46 (165.225.209.50) 1.040000ms referer=https://hub.mybinder.turing.ac.uk/user/jannaw0402-pump-it-up-qb5yf5jf/notebooks/869construction.ipynb
+[W 00:07:30.103 NotebookApp] 404 DELETE /user/jannaw0402-pump-it-up-qb5yf5jf/api/sessions/256e48cf-7a34-4360-aaa6-5eb4dbb3389c (165.225.209.50): Session not found: session_id='256e48cf-7a34-4360-aaa6-5eb4dbb3389c'
+[W 00:07:30.103 NotebookApp] Session not found: session_id='256e48cf-7a34-4360-aaa6-5eb4dbb3389c'
+[W 00:07:30.104 NotebookApp] 404 DELETE /user/jannaw0402-pump-it-up-qb5yf5jf/api/sessions/256e48cf-7a34-4360-aaa6-5eb4dbb3389c (165.225.209.50) 1.580000ms referer=https://hub.mybinder.turing.ac.uk/user/jannaw0402-pump-it-up-qb5yf5jf/notebooks/869janna.ipynb
+[I 00:07:30.410 NotebookApp] Kernel started: d986594f-5d96-409a-ba39-f1a1e07e24f3, name: python3
+[I 00:10:08.322 NotebookApp] Saving file at /869janna.ipynb
+[I 00:11:45.734 NotebookApp] Starting buffering for d986594f-5d96-409a-ba39-f1a1e07e24f3:60c150fee67c4f67adb85b061eca7449
+[I 00:12:02.146 NotebookApp] Copying 869janna.ipynb to 
+[W 00:12:02.246 NotebookApp] Notebook 869janna.ipynb is not trusted
+[W 00:12:02.331 NotebookApp] Notebook 869janna-Copy1.ipynb is not trusted
+[W 00:12:08.544 NotebookApp] Notebook 869janna-Copy1.ipynb is not trusted
+[I 00:12:14.477 NotebookApp] Kernel started: bf95161c-6487-4ff0-b9f2-3647f6424d6b, name: python3
+[I 00:14:14.745 NotebookApp] Saving file at /869janna-test.ipynb
+[W 00:14:14.747 NotebookApp] Notebook 869janna-test.ipynb is not trusted
+[I 00:16:14.280 NotebookApp] Saving file at /869janna-test.ipynb
+[I 00:18:14.835 NotebookApp] Saving file at /869janna-test.ipynb
+[W 00:19:41.188 NotebookApp] Culling 'idle' kernel 'python3' (d986594f-5d96-409a-ba39-f1a1e07e24f3) with 0 connections due to 627 seconds of inactivity.
+[I 00:19:41.189 NotebookApp] Kernel shutdown: d986594f-5d96-409a-ba39-f1a1e07e24f3
+[I 00:20:15.128 NotebookApp] Saving file at /869janna-test.ipynb
+[W 00:20:29.791 NotebookApp] Notebook 869construction.ipynb is not trusted
+[I 00:20:30.960 NotebookApp] Kernel started: 03e9a76a-8ed1-4b8f-92ea-dba2c63ae071, name: python3
+[W 00:20:39.983 NotebookApp] Notebook 869construction.ipynb is not trusted
