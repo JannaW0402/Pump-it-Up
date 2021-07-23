@@ -604,3 +604,95 @@ TermSocket.open: Opened 1
 [I 16:08:47.558 NotebookApp] New terminal with automatic name: 1
 TermSocket.open: 1
 TermSocket.open: Opened 1
+[W 2021-07-22 23:53:09.715 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-22 23:53:09.715 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-22 23:53:09.715 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-22 23:53:09.715 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-22 23:53:09.715 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-22 23:53:09.715 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-22 23:53:09.715 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-22 23:53:09.715 LabApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-07-22 23:53:09.716 LabApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-07-22 23:53:09.716 LabApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-22 23:53:09.716 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-22 23:53:09.716 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2021-07-22 23:53:09.724 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/jupyterlab
+[I 2021-07-22 23:53:09.724 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 23:53:09.733 NotebookApp] nteract extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/nteract_on_jupyter
+[I 23:53:09.735 NotebookApp] Will shut down after 600 seconds with no kernels or terminals.
+[I 23:53:09.736 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[I 23:53:09.736 NotebookApp] Jupyter Notebook 6.2.0 is running at:
+[I 23:53:09.736 NotebookApp] http://jupyter-jannaw0402-2dpump-2dit-2dup-2dwrki0d5v:8888/user/jannaw0402-pump-it-up-wrki0d5v/?token=...
+[I 23:53:09.736 NotebookApp]  or http://127.0.0.1:8888/user/jannaw0402-pump-it-up-wrki0d5v/?token=...
+[I 23:53:09.736 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 23:53:09.740 NotebookApp] No web browser found: could not locate runnable browser.
+[I 23:53:13.228 NotebookApp] 302 GET /user/jannaw0402-pump-it-up-wrki0d5v/ (10.244.6.105) 0.720000ms
+[I 23:53:14.510 NotebookApp] 302 GET /user/jannaw0402-pump-it-up-wrki0d5v/?token=tlOHlsOKRaKux_6o1dfwEw (165.225.209.50) 0.640000ms
+[I 23:53:32.653 NotebookApp] Copying 869year.ipynb to 
+[W 23:53:32.870 NotebookApp] Notebook 869year.ipynb is not trusted
+[W 23:53:32.920 NotebookApp] Notebook 869year-Copy1.ipynb is not trusted
+[W 23:53:41.191 NotebookApp] Notebook 869year-Copy1.ipynb is not trusted
+[I 23:53:44.627 NotebookApp] Kernel started: 202e0a63-d828-4808-8a1a-0b046a984f39, name: python3
+[I 23:53:44.627 NotebookApp] Culling kernels with idle durations > 600 seconds at 60 second intervals ...
+[I 23:53:44.627 NotebookApp] Culling kernels even with connected clients
+[I 23:55:12.692 NotebookApp] New terminal with automatic name: 1
+TermSocket.open: 1
+TermSocket.open: Opened 1
+[I 23:55:45.362 NotebookApp] Saving file at /869year-train.ipynb
+[I 23:57:45.109 NotebookApp] Saving file at /869year-train.ipynb
+[I 23:59:45.173 NotebookApp] Saving file at /869year-train.ipynb
+[I 00:09:33.158 NotebookApp] Saving file at /869year-train.ipynb
+[I 00:09:40.352 NotebookApp] Saving file at /869year-train.ipynb
+[I 00:12:55.854 NotebookApp] Saving file at /869year-train.ipynb
+[I 00:17:32.625 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel 202e0a63-d828-4808-8a1a-0b046a984f39 restarted
+[I 00:17:45.122 NotebookApp] Saving file at /869year-train.ipynb
+[I 00:22:53.377 NotebookApp] Saving file at /869year-train.ipynb
+[I 00:30:32.676 NotebookApp] Saving file at /869year-train.ipynb
+[I 00:41:05.659 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel 202e0a63-d828-4808-8a1a-0b046a984f39 restarted
+[I 00:41:46.019 NotebookApp] Saving file at /869year-train.ipynb
+[I 00:43:45.754 NotebookApp] Saving file at /869year-train.ipynb
+[I 00:45:45.651 NotebookApp] Saving file at /869year-train.ipynb
+[I 00:47:45.652 NotebookApp] Saving file at /869year-train.ipynb
+[I 00:49:45.665 NotebookApp] Saving file at /869year-train.ipynb
+[I 00:51:50.057 NotebookApp] Saving file at /869year-train.ipynb
+[W 00:52:49.333 NotebookApp] Notebook 869janna.ipynb is not trusted
+[I 00:52:53.689 NotebookApp] Kernel started: dcfc5737-3b48-4cb0-8e58-ec1d5fb72c67, name: python3
+[I 00:53:00.554 NotebookApp] Saving file at /869year-train.ipynb
+[W 00:53:12.196 NotebookApp] 404 GET /user/jannaw0402-pump-it-up-wrki0d5v/static/notebook/js/main.min.js.map (165.225.209.50) 8.320000ms referer=None
+[I 00:54:05.926 NotebookApp] Saving file at /869janna.ipynb
+[W 00:54:05.928 NotebookApp] Notebook 869janna.ipynb is not trusted
+[I 00:54:55.018 NotebookApp] Saving file at /869janna.ipynb
+[I 00:56:54.959 NotebookApp] Saving file at /869janna.ipynb
+[I 00:58:57.586 NotebookApp] Saving file at /869janna.ipynb
+[I 00:59:50.210 NotebookApp] Saving file at /869year-train.ipynb
+[I 01:00:01.711 NotebookApp] Kernel interrupted: 202e0a63-d828-4808-8a1a-0b046a984f39
+[W 01:01:32.691 NotebookApp] Notebook 869janna- test.ipynb is not trusted
+[I 01:01:35.859 NotebookApp] Kernel started: 9af217a4-47cc-48b8-bc4d-6df3b91318eb, name: python3
+[I 01:01:46.550 NotebookApp] Starting buffering for 9af217a4-47cc-48b8-bc4d-6df3b91318eb:79eeb2d751d14c6d97584bc1fa6ce695
+[I 01:01:51.082 NotebookApp] Saving file at /869year-train.ipynb
+[W 01:02:00.680 NotebookApp] Notebook 869year.ipynb is not trusted
+[I 01:02:03.077 NotebookApp] Kernel started: 22bd5cc7-0bdb-4ebc-b7ab-3776a192d121, name: python3
+[I 01:02:18.168 NotebookApp] Saving file at /869year.ipynb
+[W 01:02:18.355 NotebookApp] Notebook 869year.ipynb is not trusted
+[I 01:02:23.555 NotebookApp] Saving file at /869janna.ipynb
+[I 01:03:55.705 NotebookApp] Starting buffering for dcfc5737-3b48-4cb0-8e58-ec1d5fb72c67:79325ff44870479b8672e0f910397b16
+[I 01:04:12.766 NotebookApp] Saving file at /869year-train.ipynb
+[I 01:04:27.561 NotebookApp] Saving file at /869year-train.ipynb
+[I 01:04:31.353 NotebookApp] Saving file at /869year-train.ipynb
+[I 01:08:33.591 NotebookApp] Saving file at /869year-train.ipynb
+[W 01:08:44.628 NotebookApp] Culling 'idle' kernel 'python3' (dcfc5737-3b48-4cb0-8e58-ec1d5fb72c67) with 0 connections due to 638 seconds of inactivity.
+[I 01:08:44.629 NotebookApp] Kernel shutdown: dcfc5737-3b48-4cb0-8e58-ec1d5fb72c67
+[I 01:10:41.202 NotebookApp] Saving file at /869year-train.ipynb
+[W 01:11:44.630 NotebookApp] Culling 'idle' kernel 'python3' (9af217a4-47cc-48b8-bc4d-6df3b91318eb) with 0 connections due to 606 seconds of inactivity.
+[I 01:11:44.631 NotebookApp] Kernel shutdown: 9af217a4-47cc-48b8-bc4d-6df3b91318eb
+[I 01:12:07.178 NotebookApp] Saving file at /869year.ipynb
+[W 01:12:07.200 NotebookApp] Notebook 869year.ipynb is not trusted
+[I 01:12:52.575 NotebookApp] Saving file at /869year-train.ipynb
+[I 01:14:05.156 NotebookApp] Saving file at /869year.ipynb
+[W 01:14:05.179 NotebookApp] Notebook 869year.ipynb is not trusted
+[I 01:16:08.239 NotebookApp] Saving file at /869year.ipynb
+[W 01:16:08.263 NotebookApp] Notebook 869year.ipynb is not trusted
+[I 01:18:07.490 NotebookApp] Saving file at /869year.ipynb
+[W 01:18:07.544 NotebookApp] Notebook 869year.ipynb is not trusted
