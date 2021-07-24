@@ -696,3 +696,167 @@ kernel 202e0a63-d828-4808-8a1a-0b046a984f39 restarted
 [W 01:16:08.263 NotebookApp] Notebook 869year.ipynb is not trusted
 [I 01:18:07.490 NotebookApp] Saving file at /869year.ipynb
 [W 01:18:07.544 NotebookApp] Notebook 869year.ipynb is not trusted
+[W 2021-07-24 14:29:39.844 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-24 14:29:39.844 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-24 14:29:39.844 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-24 14:29:39.844 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-24 14:29:39.844 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-24 14:29:39.844 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-24 14:29:39.845 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-24 14:29:39.845 LabApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-07-24 14:29:39.845 LabApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-07-24 14:29:39.845 LabApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-24 14:29:39.845 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-24 14:29:39.845 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2021-07-24 14:29:39.853 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/jupyterlab
+[I 2021-07-24 14:29:39.853 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 14:29:39.862 NotebookApp] nteract extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/nteract_on_jupyter
+[I 14:29:39.864 NotebookApp] Will shut down after 600 seconds with no kernels or terminals.
+[I 14:29:39.864 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[I 14:29:39.864 NotebookApp] Jupyter Notebook 6.2.0 is running at:
+[I 14:29:39.864 NotebookApp] http://jupyter-jannaw0402-2dpump-2dit-2dup-2dnua92amq:8888/user/jannaw0402-pump-it-up-nua92amq/?token=...
+[I 14:29:39.864 NotebookApp]  or http://127.0.0.1:8888/user/jannaw0402-pump-it-up-nua92amq/?token=...
+[I 14:29:39.864 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 14:29:39.869 NotebookApp] No web browser found: could not locate runnable browser.
+[I 14:29:40.875 NotebookApp] 302 GET /user/jannaw0402-pump-it-up-nua92amq/ (10.244.6.105) 0.800000ms
+[I 14:29:55.343 NotebookApp] 302 GET /user/jannaw0402-pump-it-up-nua92amq/?token=Z0sLogECSa2kcOk0zFUYuw (165.225.209.50) 0.640000ms
+[W 14:31:49.696 NotebookApp] Notebook 869model.ipynb is not trusted
+[I 14:31:50.329 NotebookApp] Kernel started: 2ecacc79-1502-4ccc-9b25-bc0032f3ce26, name: python3
+[I 14:31:50.331 NotebookApp] Culling kernels with idle durations > 600 seconds at 60 second intervals ...
+[I 14:31:50.332 NotebookApp] Culling kernels even with connected clients
+[I 14:33:50.653 NotebookApp] Saving file at /869model.ipynb
+[I 14:35:50.669 NotebookApp] Saving file at /869model.ipynb
+[I 14:37:21.858 NotebookApp] Saving file at /869model.ipynb
+[I 14:37:28.270 NotebookApp] New terminal with automatic name: 1
+TermSocket.open: 1
+TermSocket.open: Opened 1
+[I 14:38:36.440 NotebookApp] Saving file at /869model.ipynb
+[I 14:39:50.793 NotebookApp] Saving file at /869model.ipynb
+[I 14:40:40.350 NotebookApp] Starting buffering for 2ecacc79-1502-4ccc-9b25-bc0032f3ce26:d5b063008ff04059af5582b2290f8850
+[I 14:40:41.604 NotebookApp] Restoring connection for 2ecacc79-1502-4ccc-9b25-bc0032f3ce26:d5b063008ff04059af5582b2290f8850
+Websocket closed
+[I 14:41:30.817 NotebookApp] Saving file at /869model.ipynb
+[W 14:41:31.053 NotebookApp] Notebook 869model.ipynb is not trusted
+[W 14:41:31.058 NotebookApp] Trusting notebook /869model.ipynb
+[I 14:41:31.726 NotebookApp] Starting buffering for 2ecacc79-1502-4ccc-9b25-bc0032f3ce26:d5b063008ff04059af5582b2290f8850
+TermSocket.open: 1
+TermSocket.open: Opened 1
+Websocket closed
+[I 14:46:25.832 NotebookApp] New terminal with automatic name: 2
+TermSocket.open: 2
+TermSocket.open: Opened 2
+[I 14:46:36.371 NotebookApp] Saving file at /869model.ipynb
+[I 14:47:33.955 NotebookApp] Saving file at /869model.ipynb
+[I 14:48:01.588 NotebookApp] Saving file at /869model.ipynb
+[I 14:51:17.762 NotebookApp] Saving file at /869model.ipynb
+[I 14:51:59.842 NotebookApp] Saving file at /869model.ipynb
+[I 14:53:33.964 NotebookApp] Saving file at /869model.ipynb
+[I 15:01:33.876 NotebookApp] Saving file at /869model.ipynb
+[I 15:03:34.609 NotebookApp] Saving file at /869model.ipynb
+[I 15:07:33.953 NotebookApp] Saving file at /869model.ipynb
+[I 15:09:33.937 NotebookApp] Saving file at /869model.ipynb
+[I 15:11:33.874 NotebookApp] Saving file at /869model.ipynb
+[I 15:13:33.946 NotebookApp] Saving file at /869model.ipynb
+[I 15:14:44.825 NotebookApp] Saving file at /869model.ipynb
+[I 15:15:34.639 NotebookApp] Saving file at /869model.ipynb
+[I 15:17:33.948 NotebookApp] Saving file at /869model.ipynb
+[I 15:19:34.631 NotebookApp] Saving file at /869model.ipynb
+[I 15:21:33.908 NotebookApp] Saving file at /869model.ipynb
+[I 15:23:33.966 NotebookApp] Saving file at /869model.ipynb
+[I 15:23:40.490 NotebookApp] Saving file at /869model.ipynb
+[I 15:25:33.949 NotebookApp] Saving file at /869model.ipynb
+[I 15:28:24.234 NotebookApp] Saving file at /869model.ipynb
+[I 15:39:08.319 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel 2ecacc79-1502-4ccc-9b25-bc0032f3ce26 restarted
+[I 15:39:33.941 NotebookApp] Saving file at /869model.ipynb
+[I 15:41:33.954 NotebookApp] Saving file at /869model.ipynb
+[I 15:42:17.331 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel 2ecacc79-1502-4ccc-9b25-bc0032f3ce26 restarted
+[I 15:42:53.341 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel 2ecacc79-1502-4ccc-9b25-bc0032f3ce26 restarted
+[I 15:43:24.463 NotebookApp] Starting buffering for 2ecacc79-1502-4ccc-9b25-bc0032f3ce26:399bc026d92c488c84de8d7dcd1a69de
+[W 15:43:30.391 NotebookApp] Notebook 869model.ipynb is not trusted
+[I 15:43:49.242 NotebookApp] Saving file at /869model.ipynb
+[W 15:43:49.242 NotebookApp] Notebook 869model.ipynb is not trusted
+[I 15:44:14.350 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel 2ecacc79-1502-4ccc-9b25-bc0032f3ce26 restarted
+[I 15:44:35.208 NotebookApp] Saving file at /869model.ipynb
+[W 15:44:35.209 NotebookApp] Notebook 869model.ipynb is not trusted
+[I 15:44:41.588 NotebookApp] Starting buffering for 2ecacc79-1502-4ccc-9b25-bc0032f3ce26:dabc897a9ebd498384b10c40d06d3f11
+[W 15:44:45.686 NotebookApp] Notebook 869model.ipynb is not trusted
+[I 15:45:14.552 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel 2ecacc79-1502-4ccc-9b25-bc0032f3ce26 restarted
+[I 15:45:26.172 NotebookApp] Starting buffering for 2ecacc79-1502-4ccc-9b25-bc0032f3ce26:dc6b610b07844ebfb06dacc7e8bec877
+[W 15:45:30.006 NotebookApp] Notebook 869model.ipynb is not trusted
+[I 15:47:31.368 NotebookApp] Saving file at /869model.ipynb
+[W 15:47:31.369 NotebookApp] Notebook 869model.ipynb is not trusted
+[I 15:49:31.448 NotebookApp] Saving file at /869model.ipynb
+[W 15:49:31.448 NotebookApp] Notebook 869model.ipynb is not trusted
+[I 15:51:31.472 NotebookApp] Saving file at /869model.ipynb
+[W 15:51:31.472 NotebookApp] Notebook 869model.ipynb is not trusted
+[I 15:53:19.085 NotebookApp] Saving file at /869model.ipynb
+[W 15:53:19.086 NotebookApp] Notebook 869model.ipynb is not trusted
+[I 15:55:31.450 NotebookApp] Saving file at /869model.ipynb
+[W 15:55:31.451 NotebookApp] Notebook 869model.ipynb is not trusted
+[I 15:57:31.481 NotebookApp] Saving file at /869model.ipynb
+[W 15:57:31.481 NotebookApp] Notebook 869model.ipynb is not trusted
+[I 15:58:28.254 NotebookApp] Saving file at /869model.ipynb
+[W 15:58:28.255 NotebookApp] Notebook 869model.ipynb is not trusted
+[I 15:59:20.402 NotebookApp] Saving file at /869model.ipynb
+[W 15:59:20.403 NotebookApp] Notebook 869model.ipynb is not trusted
+[I 15:59:27.960 NotebookApp] Starting buffering for 2ecacc79-1502-4ccc-9b25-bc0032f3ce26:9a24416e162649029f3883c3e2d3b648
+[W 15:59:57.017 NotebookApp] WebSocket ping timeout after 119905 ms.
+Websocket closed
+[I 16:01:07.199 NotebookApp] New terminal with automatic name: 3
+TermSocket.open: 3
+TermSocket.open: Opened 3
+[I 16:02:16.345 NotebookApp] Saving file at /869model.ipynb
+[W 16:02:16.345 NotebookApp] Notebook 869model.ipynb is not trusted
+[W 16:02:18.202 NotebookApp] Notebook 869model.ipynb is not trusted
+[W 16:02:18.221 NotebookApp] Trusting notebook /869model.ipynb
+[I 16:02:28.162 NotebookApp] Restoring connection for 2ecacc79-1502-4ccc-9b25-bc0032f3ce26:9a24416e162649029f3883c3e2d3b648
+[I 16:03:33.038 NotebookApp] Saving file at /869model.ipynb
+[I 16:05:33.292 NotebookApp] Saving file at /869model.ipynb
+[I 16:06:27.670 NotebookApp] Saving file at /869model.ipynb
+[I 16:06:31.687 NotebookApp] Saving file at /869model.ipynb
+[I 16:07:33.311 NotebookApp] Saving file at /869model.ipynb
+[I 16:09:33.095 NotebookApp] Saving file at /869model.ipynb
+[I 16:11:32.637 NotebookApp] Saving file at /869model.ipynb
+[I 16:13:33.705 NotebookApp] Saving file at /869model.ipynb
+[I 16:15:06.957 NotebookApp] Saving file at /869model.ipynb
+[I 16:15:11.157 NotebookApp] Saving file at /869model.ipynb
+[I 16:19:33.724 NotebookApp] Saving file at /869model.ipynb
+[I 16:20:41.894 NotebookApp] Saving file at /869model.ipynb
+[I 16:21:33.241 NotebookApp] Saving file at /869model.ipynb
+[I 16:22:05.696 NotebookApp] Saving file at /869model.ipynb
+[I 16:23:15.968 NotebookApp] Saving file at /869model.ipynb
+[I 16:23:34.214 NotebookApp] Saving file at /869model.ipynb
+[I 16:25:33.249 NotebookApp] Saving file at /869model.ipynb
+[I 16:25:55.888 NotebookApp] Saving file at /869model.ipynb
+[I 16:27:33.204 NotebookApp] Saving file at /869model.ipynb
+[I 16:29:34.209 NotebookApp] Saving file at /869model.ipynb
+[I 16:31:33.412 NotebookApp] Saving file at /869model.ipynb
+[I 16:31:37.098 NotebookApp] Saving file at /869model.ipynb
+[I 16:32:47.614 NotebookApp] Saving file at /869model.ipynb
+[I 16:33:32.804 NotebookApp] Saving file at /869model.ipynb
+[I 16:33:33.993 NotebookApp] Saving file at /869model.ipynb
+[I 16:37:32.893 NotebookApp] Saving file at /869model.ipynb
+[I 16:39:32.734 NotebookApp] Saving file at /869model.ipynb
+[I 16:39:42.998 NotebookApp] Saving file at /869model.ipynb
+[I 16:41:34.890 NotebookApp] Saving file at /869model.ipynb
+[I 16:43:33.664 NotebookApp] Saving file at /869model.ipynb
+[W 16:53:50.333 NotebookApp] Culling 'idle' kernel 'python3' (2ecacc79-1502-4ccc-9b25-bc0032f3ce26) with 1 connections due to 631 seconds of inactivity.
+[I 16:53:50.333 NotebookApp] Kernel shutdown: 2ecacc79-1502-4ccc-9b25-bc0032f3ce26
+[W 16:53:52.276 NotebookApp] 410 DELETE /user/jannaw0402-pump-it-up-nua92amq/api/sessions/106e99fa-4140-4db7-b84b-339ad44b8585 (165.225.209.50): Kernel deleted before session
+[W 16:53:52.276 NotebookApp] Kernel deleted before session
+[W 16:53:52.277 NotebookApp] 410 DELETE /user/jannaw0402-pump-it-up-nua92amq/api/sessions/106e99fa-4140-4db7-b84b-339ad44b8585 (165.225.209.50) 1.760000ms referer=https://hub.mybinder.turing.ac.uk/user/jannaw0402-pump-it-up-nua92amq/notebooks/869model.ipynb
+[W 17:24:32.497 NotebookApp] 404 DELETE /user/jannaw0402-pump-it-up-nua92amq/api/sessions/106e99fa-4140-4db7-b84b-339ad44b8585 (165.225.209.50): Session not found: session_id='106e99fa-4140-4db7-b84b-339ad44b8585'
+[W 17:24:32.497 NotebookApp] Session not found: session_id='106e99fa-4140-4db7-b84b-339ad44b8585'
+[W 17:24:32.498 NotebookApp] 404 DELETE /user/jannaw0402-pump-it-up-nua92amq/api/sessions/106e99fa-4140-4db7-b84b-339ad44b8585 (165.225.209.50) 2.050000ms referer=https://hub.mybinder.turing.ac.uk/user/jannaw0402-pump-it-up-nua92amq/notebooks/869model.ipynb
+[I 17:24:32.656 NotebookApp] Kernel started: 501542e1-e9c4-4e19-944a-e75c5a3a65d0, name: python3
+[W 17:34:50.333 NotebookApp] Culling 'idle' kernel 'python3' (501542e1-e9c4-4e19-944a-e75c5a3a65d0) with 1 connections due to 616 seconds of inactivity.
+[I 17:34:50.333 NotebookApp] Kernel shutdown: 501542e1-e9c4-4e19-944a-e75c5a3a65d0
+[W 17:34:51.176 NotebookApp] 410 DELETE /user/jannaw0402-pump-it-up-nua92amq/api/sessions/788b9289-1835-4a7c-8927-f7114d0c6afc (165.225.209.50): Kernel deleted before session
+[W 17:34:51.176 NotebookApp] Kernel deleted before session
+[W 17:34:51.177 NotebookApp] 410 DELETE /user/jannaw0402-pump-it-up-nua92amq/api/sessions/788b9289-1835-4a7c-8927-f7114d0c6afc (165.225.209.50) 1.840000ms referer=https://hub.mybinder.turing.ac.uk/user/jannaw0402-pump-it-up-nua92amq/notebooks/869model.ipynb
+[I 18:33:45.948 NotebookApp] Creating new directory in 
