@@ -1140,3 +1140,45 @@ TermSocket.open: Opened 2
 [I 03:27:47.737 NotebookApp] New terminal with automatic name: 1
 TermSocket.open: 1
 TermSocket.open: Opened 1
+[W 03:36:30.638 NotebookApp] Culling 'idle' kernel 'python3' (7e472757-7c20-41e5-abc2-4d9f663599b4) with 1 connections due to 653 seconds of inactivity.
+[I 03:36:30.641 NotebookApp] Kernel shutdown: 7e472757-7c20-41e5-abc2-4d9f663599b4
+[W 03:36:31.680 NotebookApp] 410 DELETE /user/jannaw0402-pump-it-up-549jk2zd/api/sessions/4b9b4cb4-1dd9-4b5e-9543-1a41a41c851e (165.225.209.50): Kernel deleted before session
+[W 03:36:31.681 NotebookApp] Kernel deleted before session
+[W 03:36:31.681 NotebookApp] 410 DELETE /user/jannaw0402-pump-it-up-549jk2zd/api/sessions/4b9b4cb4-1dd9-4b5e-9543-1a41a41c851e (165.225.209.50) 1.830000ms referer=https://hub.mybinder.turing.ac.uk/user/jannaw0402-pump-it-up-549jk2zd/notebooks/Model/869model-0726.ipynb
+[W 04:00:11.310 NotebookApp] 404 GET /user/jannaw0402-pump-it-up-549jk2zd/api/kernels/7e472757-7c20-41e5-abc2-4d9f663599b4/channels?session_id=635434e9bd8049bb8e97b75baeef42c3 (165.225.209.75): Kernel does not exist: 7e472757-7c20-41e5-abc2-4d9f663599b4
+[W 04:00:11.319 NotebookApp] 404 GET /user/jannaw0402-pump-it-up-549jk2zd/api/kernels/7e472757-7c20-41e5-abc2-4d9f663599b4/channels?session_id=635434e9bd8049bb8e97b75baeef42c3 (165.225.209.75) 10.420000ms referer=None
+[W 04:00:13.561 NotebookApp] Replacing stale connection: 7e472757-7c20-41e5-abc2-4d9f663599b4:635434e9bd8049bb8e97b75baeef42c3
+[W 04:00:35.986 NotebookApp] Notebook Model/869model-0726.ipynb is not trusted
+[I 04:00:38.641 NotebookApp] Kernel started: 67c5686c-cfbc-417a-8ebd-1574b6020b63, name: python3
+[W 04:01:13.562 NotebookApp] Replacing stale connection: 7e472757-7c20-41e5-abc2-4d9f663599b4:635434e9bd8049bb8e97b75baeef42c3
+[W 04:02:13.561 NotebookApp] Replacing stale connection: 7e472757-7c20-41e5-abc2-4d9f663599b4:635434e9bd8049bb8e97b75baeef42c3
+[I 04:02:39.786 NotebookApp] Saving file at /Model/869model-0726.ipynb
+[W 04:02:39.787 NotebookApp] Notebook Model/869model-0726.ipynb is not trusted
+[I 04:04:39.686 NotebookApp] Saving file at /Model/869model-0726.ipynb
+[W 04:04:39.689 NotebookApp] Notebook Model/869model-0726.ipynb is not trusted
+[I 04:06:39.689 NotebookApp] Saving file at /Model/869model-0726.ipynb
+[W 04:06:39.690 NotebookApp] Notebook Model/869model-0726.ipynb is not trusted
+[I 04:08:39.773 NotebookApp] Saving file at /Model/869model-0726.ipynb
+[W 04:08:39.774 NotebookApp] Notebook Model/869model-0726.ipynb is not trusted
+[I 04:10:39.771 NotebookApp] Saving file at /Model/869model-0726.ipynb
+[W 04:10:39.772 NotebookApp] Notebook Model/869model-0726.ipynb is not trusted
+[I 04:12:39.736 NotebookApp] Saving file at /Model/869model-0726.ipynb
+[W 04:12:39.737 NotebookApp] Notebook Model/869model-0726.ipynb is not trusted
+[I 04:12:56.284 NotebookApp] Saving file at /Model/869model-0726.ipynb
+[W 04:12:56.285 NotebookApp] Notebook Model/869model-0726.ipynb is not trusted
+[I 04:13:24.475 NotebookApp] Saving file at /Model/869model-0726.ipynb
+[W 04:13:24.476 NotebookApp] Notebook Model/869model-0726.ipynb is not trusted
+[I 04:14:39.662 NotebookApp] Saving file at /Model/869model-0726.ipynb
+[W 04:14:39.663 NotebookApp] Notebook Model/869model-0726.ipynb is not trusted
+[I 04:16:39.819 NotebookApp] Saving file at /Model/869model-0726.ipynb
+[W 04:16:39.820 NotebookApp] Notebook Model/869model-0726.ipynb is not trusted
+[I 04:18:39.754 NotebookApp] Saving file at /Model/869model-0726.ipynb
+[W 04:18:39.755 NotebookApp] Notebook Model/869model-0726.ipynb is not trusted
+[I 04:18:56.916 NotebookApp] Saving file at /Model/869model-0726.ipynb
+[W 04:18:56.917 NotebookApp] Notebook Model/869model-0726.ipynb is not trusted
+[I 04:20:39.907 NotebookApp] Saving file at /Model/869model-0726.ipynb
+[W 04:20:39.908 NotebookApp] Notebook Model/869model-0726.ipynb is not trusted
+[I 04:21:15.101 NotebookApp] Saving file at /Model/869model-0726.ipynb
+[W 04:21:15.102 NotebookApp] Notebook Model/869model-0726.ipynb is not trusted
+[I 04:23:03.439 NotebookApp] Saving file at /Model/869model-0726.ipynb
+[W 04:23:03.440 NotebookApp] Notebook Model/869model-0726.ipynb is not trusted
