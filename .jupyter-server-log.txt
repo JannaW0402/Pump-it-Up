@@ -1089,3 +1089,54 @@ TermSocket.open: Opened 2
 [W 23:52:19.509 NotebookApp] 410 DELETE /user/jannaw0402-pump-it-up-k2t9pjvy/api/sessions/5a1d76f0-4006-4d0f-af68-3c8df83ae82a (165.225.209.50): Kernel deleted before session
 [W 23:52:19.509 NotebookApp] Kernel deleted before session
 [W 23:52:19.510 NotebookApp] 410 DELETE /user/jannaw0402-pump-it-up-k2t9pjvy/api/sessions/5a1d76f0-4006-4d0f-af68-3c8df83ae82a (165.225.209.50) 2.210000ms referer=https://hub.mybinder.turing.ac.uk/user/jannaw0402-pump-it-up-k2t9pjvy/notebooks/869sourav.ipynb
+[W 2021-07-27 03:15:51.363 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-27 03:15:51.363 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-27 03:15:51.363 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-27 03:15:51.363 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-27 03:15:51.363 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-27 03:15:51.363 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-27 03:15:51.363 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-27 03:15:51.364 LabApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-07-27 03:15:51.364 LabApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-07-27 03:15:51.364 LabApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-27 03:15:51.364 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-27 03:15:51.364 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2021-07-27 03:15:51.372 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/jupyterlab
+[I 2021-07-27 03:15:51.373 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 03:15:51.381 NotebookApp] nteract extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/nteract_on_jupyter
+[I 03:15:51.383 NotebookApp] Will shut down after 600 seconds with no kernels or terminals.
+[I 03:15:51.383 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[I 03:15:51.383 NotebookApp] Jupyter Notebook 6.2.0 is running at:
+[I 03:15:51.383 NotebookApp] http://jupyter-jannaw0402-2dpump-2dit-2dup-2d549jk2zd:8888/user/jannaw0402-pump-it-up-549jk2zd/?token=...
+[I 03:15:51.383 NotebookApp]  or http://127.0.0.1:8888/user/jannaw0402-pump-it-up-549jk2zd/?token=...
+[I 03:15:51.383 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 03:15:51.387 NotebookApp] No web browser found: could not locate runnable browser.
+[I 03:15:54.277 NotebookApp] 302 GET /user/jannaw0402-pump-it-up-549jk2zd/ (10.244.6.105) 0.770000ms
+[I 03:16:00.072 NotebookApp] 302 GET /user/jannaw0402-pump-it-up-549jk2zd/?token=vCGOah7JSoW61nHifwLFUQ (165.225.209.50) 0.600000ms
+[W 03:17:28.750 NotebookApp] Notebook Model/869model-0726.ipynb is not trusted
+[I 03:17:30.636 NotebookApp] Kernel started: 7e472757-7c20-41e5-abc2-4d9f663599b4, name: python3
+[I 03:17:30.636 NotebookApp] Culling kernels with idle durations > 600 seconds at 60 second intervals ...
+[I 03:17:30.637 NotebookApp] Culling kernels even with connected clients
+[I 03:18:29.823 NotebookApp] Saving file at /Model/869model-0726.ipynb
+[W 03:18:29.825 NotebookApp] Notebook Model/869model-0726.ipynb is not trusted
+[I 03:19:32.477 NotebookApp] Saving file at /Model/869model-0726.ipynb
+[W 03:19:32.478 NotebookApp] Notebook Model/869model-0726.ipynb is not trusted
+[I 03:21:31.355 NotebookApp] Saving file at /Model/869model-0726.ipynb
+[W 03:21:31.356 NotebookApp] Notebook Model/869model-0726.ipynb is not trusted
+[I 03:22:43.405 NotebookApp] Saving file at /Model/869model-0726.ipynb
+[W 03:22:43.407 NotebookApp] Notebook Model/869model-0726.ipynb is not trusted
+[I 03:23:31.460 NotebookApp] Saving file at /Model/869model-0726.ipynb
+[W 03:23:31.462 NotebookApp] Notebook Model/869model-0726.ipynb is not trusted
+[I 03:24:23.238 NotebookApp] Saving file at /Model/869model-0726.ipynb
+[W 03:24:23.239 NotebookApp] Notebook Model/869model-0726.ipynb is not trusted
+[I 03:24:35.237 NotebookApp] Saving file at /Model/869model-0726.ipynb
+[W 03:24:35.239 NotebookApp] Notebook Model/869model-0726.ipynb is not trusted
+[I 03:25:31.496 NotebookApp] Saving file at /Model/869model-0726.ipynb
+[W 03:25:31.497 NotebookApp] Notebook Model/869model-0726.ipynb is not trusted
+[I 03:27:32.609 NotebookApp] Saving file at /Model/869model-0726.ipynb
+[W 03:27:32.610 NotebookApp] Notebook Model/869model-0726.ipynb is not trusted
+[I 03:27:40.826 NotebookApp] Saving file at /Model/869model-0726.ipynb
+[W 03:27:40.827 NotebookApp] Notebook Model/869model-0726.ipynb is not trusted
+[I 03:27:47.737 NotebookApp] New terminal with automatic name: 1
+TermSocket.open: 1
+TermSocket.open: Opened 1
